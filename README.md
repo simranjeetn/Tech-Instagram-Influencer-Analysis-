@@ -1,4 +1,4 @@
-# Tech-Instagram-Influencer-Analysis-
+# Tech-Instagram-Influencer-Analysis
 
 Instagram Influencer Analysis
 
@@ -81,7 +81,7 @@ fact_content: Post-specific details, including type, engagement, and reach metri
 
 Clone the repository:
 
-git clone https://github.com/yourusername/instagram-influencer-analysis.git
+git clone https://github.com/simranjeetn/Tech-Instagram-Influencer-Analysis.git
 
 Load the dataset into SQL/Power BI.
 
